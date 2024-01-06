@@ -1,1 +1,1 @@
-# school-app
+# Tinder Clone
