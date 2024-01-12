@@ -18,7 +18,10 @@ const HomeScreen = () => {
             navigation.navigate('Chat');
           }}/>
 
-          
+
+
+
+
         </View>
     );
 }
