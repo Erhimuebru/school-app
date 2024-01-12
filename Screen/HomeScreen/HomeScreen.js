@@ -11,6 +11,14 @@ const styles = StyleSheet.create({
  
 const HomeScreen = () => {
     const navigation =useNavigation()
+
+
+
+
+
+
+
+    
     return (
         <View style={styles.container}>
             <Text> am the HomeScreen</Text>
